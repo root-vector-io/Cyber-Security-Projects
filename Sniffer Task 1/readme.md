@@ -40,7 +40,7 @@ sudo apt update && sudo apt install python3-tk -y
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/root-vector-io/CodeAlpha_Network_Sniffer.git
+gitclone https://github.com/root-vector-io/Cyber-Security-Projects.git
 cd CodeAlpha_Network_Sniffer
 ```
 
